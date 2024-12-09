@@ -2,8 +2,8 @@
 
 #### Technical Skills: Swift, Objective C, Dart, iOS, Android
 
-## Education						       		
-- MSc. in Computer Science & Engineering | **Jahangirnagar University** (_2019_)	 			        		
+## Education
+- MSc. in Computer Science & Engineering | **Jahangirnagar University** (_2019_)
 - BSc. in Computer Science | **American International University - Bangladesh** (_2016_)
 
 ## Work Experience
@@ -21,7 +21,7 @@
   - BLE, iBeacon, MVC, Charts, Firebase push notification and remote config, CoreData, Storyboard etc.
   - Troubleshot and fixed bugs and issues to ensure seem-less operation for huge customer base of the apps.
 
-**- Senior Software Engineer, iOS Team, Mobile Apps and IoT Team, Brotecs Technologies Limted Dhaka, Bangladesh (_Oct 2016 – Nov 2021_)**
+**- Senior Software Engineer, iOS Team, Mobile Apps and IoT Team, Brotecs Technologies Limited Dhaka, Bangladesh (_Oct 2016 – Nov 2021_)**
   - Assisted and lead 4 iOS developers for implementing and optimizing different modules of VOIP and network apps both for Objective C and Swift.
   - Built SDK for VOIP apps: XMPP and OMEMO for Message module, fully customized Contacts module
   - Built iAX2 wrapper and library, optimized SIP wrapper and library
@@ -34,3 +34,33 @@
 **[OMRON Connect](https://apps.apple.com/us/app/omron-connect-us-can-emea/id1166317885) | An app to manage your heart health.**
  - BLE, iBeacon, Charts, CoreData, Storyboard etc.
  - Continuous bug fixing and feature implementation and deployment in AppStore
+
+**[BBL Shubidha](https://apps.apple.com/gb/app/bbl-shubidha/id1628092489) | Paperless Loan App.**
+- Planned and developed, from scratch, country’s first paperless retail loan disbursement for eligible customers.
+- realm, REST API handling, ObjectMapper, complex UI etc.
+
+**[Phoring](https://apps.apple.com/us/app/phoring/id1484441390) | A Second Phone Line Service**
+- Designed and developed a virtual phone service provider that provides you worldwide phone number to add a second phone line to your smartphone.
+- CoreData, REST API Handling, IAP, SIP, iAX2 and XMPP protocol
+- Continuous bug fixing and feature implementation and deployment in AppStore.
+
+**[GoDirect Voice](https://apps.apple.com/us/app/godirect-voice/id1046654979) | Stay connected while in-flight**
+- Secure call and messaging, ZRTP Integration
+- SIP, iAX2, complete UI re-design.
+
+**[SD Cabin](https://apps.apple.com/us/app/sd-cabin/id1202291954) | Simplifies the in-flight connectivity experience.**
+- Speedtest, Ping, Traceroute, LAN Scan, Device troubleshooting, Sending reports etc.
+- OAuth, iperf, Complex UI design for iPhones and iPads.
+
+**SaveUp | A lifestyle platform where you can browse for amazing deals.**
+- E-commerce platform built from scratch, REST API handling, realm
+
+**Piickme | Ride sharing App.**
+- Ride sharing app built from scratch, REST API handling, realm
+- Google Map integration, navigation, firebase push notification etc.
+
+## Certifications
+- Certified ScrumMaster
+- SecureProgrammingforiOSv2-SynopsisInc.
+- BankingFoundationCourse-BIBM and BRACBank 
+- InformationSecurityinBanking-BRAC Bank
