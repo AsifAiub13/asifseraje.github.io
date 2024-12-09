@@ -1,5 +1,5 @@
-# Mobile Apps Developer
-
+# Mobile App Developer
+#### Contact: [LinkedIn](https://www.linkedin.com/in/asif-seraje-csm%C2%AE-0165298a/) | [Email](mailto:asifseraje@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=8801674782387)
 #### Technical Skills: Swift, Objective C, Dart, iOS, Android
 
 ## Education
