@@ -1,4 +1,4 @@
-# Mobile App Developer
+# Mobile Apps Developer
 #### Contact: [LinkedIn](https://www.linkedin.com/in/asif-seraje-csm%C2%AE-0165298a/) | [Email](mailto:asifseraje@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=8801674782387)
 #### Technical Skills: Swift, Objective C, Dart, iOS, Android
 
@@ -14,6 +14,7 @@
   - MVVM, REST API handling, Combine, Realm, SwiftData, Firebase etc.
   - Complex User Interface implementation using Autolayout and SwifUI.
   - Fixed major bugs and issues to ensure smooth operation of the applications.
+  - Implemented Flutter apps from scratch for SME and HR to automate their daily tasks.
 
 **- Senior iOS Engineer, iOS Team, BJIT Group, Bangladesh (_Dec 2021 – March 2022_)**
 
@@ -64,3 +65,5 @@
 - SecureProgrammingforiOSv2-SynopsisInc.
 - BankingFoundationCourse-BIBM and BRACBank 
 - InformationSecurityinBanking-BRAC Bank
+
+[Download My CV](https://drive.google.com/file/d/1J3ffWpFf0CnaOhneUm31KXidrcCQdexS/view?usp=sharing)
